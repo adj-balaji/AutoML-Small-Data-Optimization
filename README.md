@@ -83,7 +83,7 @@ Small datasets often lead to **overfitting**, while imbalanced datasets bias mod
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/automl-imbalanced-datasets.git
+git clone https://github.com/adj-balaji/automl-imbalanced-datasets.git
 cd automl-imbalanced-datasets
 pip install -r requirements.txt
 ```
@@ -106,10 +106,6 @@ AutoML-Imbalanced/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-├── images/
-│   ├── loss_plot.png
-│   ├── shap_plot.png
-│   └── results.png
 ```
 
 ---
